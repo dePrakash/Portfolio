@@ -640,15 +640,19 @@ footer{
         display: none;
     }
     .featured-image{
-        padding-top: 40px;
+        /* padding-top: 40px; */
     order: 1;
         justify-content: center;
-        min-height: 150px;
+        min-height: 250px;
         width: 100%;
-        margin-top: 65px;
+        /* margin-top: 65px; */
+        padding-top: 60px;
 }
     .image, .image img{
         width: 250px;
         height: 250px;
+    }
+    .scroll-btn{
+        display: none;
     }
 } 
