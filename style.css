@@ -640,7 +640,7 @@ footer{
         display: none;
     }
     .image, .image img{
-        width: 210px;
-        height: 210px;
+        width: 250px;
+        height: 250px;
     }
 } 
