@@ -595,8 +595,8 @@ footer{
         margin-top: 65px;
     }
     .image, .image img{
-        width: 150px;
-        height: 150px;
+        width: 250px;
+        height: 250px;
     }
     .row{
         display: flex;
@@ -625,7 +625,7 @@ footer{
 
 @media only screen and (max-width: 540px){
     .featured-name{
-        font-size: 40px;
+        font-size: 30px;
     }
     .project-box{
         width: 100%;
@@ -636,4 +636,11 @@ footer{
     .input-field{
         width: 100%;
     }
-}
+    .middle-footer{
+        display: none;
+    }
+    .image, .image img{
+        width: 200px;
+        height: 200px;
+    }
+} 
