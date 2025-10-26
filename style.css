@@ -623,7 +623,7 @@ footer{
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 576px){
     .featured-name{
         font-size: 30px;
     }
@@ -640,7 +640,7 @@ footer{
         display: none;
     }
     .image, .image img{
-        width: 200px;
-        height: 200px;
+        width: 210px;
+        height: 210px;
     }
 } 
