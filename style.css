@@ -618,6 +618,9 @@ footer{
     .project-box{
         width: 80%;
     }
+    .scroll-btn{
+        display: none;
+    }
 
 }
 
